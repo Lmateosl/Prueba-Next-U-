@@ -1,0 +1,77 @@
+#cuerposos{
+    margin: auto;
+    background-color: white;
+    width: 70%;
+    border-radius: 4px;
+    padding-bottom: 20px;
+}
+
+#head{
+    display:flex;
+    flex-flow: row nowrap;
+    margin-bottom: 30px;
+    border-bottom: 1px solid gainsboro;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+#head1{
+    order: 1;
+    flex-grow: 2;
+    margin: 20px;   
+    margin-top: 30px;
+}
+#head2{
+    order: 3;
+    flex-grow: 1;
+    width: 250px;
+    margin: 20px;
+    margin-top: 30px;
+    margin-right: 0px !important;
+}
+#relleno{
+    order: 2;
+    flex-grow: 6;
+}
+#buscar{
+    margin-left: 20px;
+}
+
+#tableas{
+    max-width: 90%;
+    margin-left: 60px;
+    margin-right: 20px;
+    overflow: auto;
+    height: 650px;
+}
+
+.objeto{
+    margin-bottom: 20px;
+}
+
+.inputValor{
+    width: 50px;
+}
+
+.add{
+    margin-left: 10px;
+}
+
+.border{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#modalContorno{
+    max-width: 800px;
+}
+
+#imgModal{
+    border: "solid 1px black";
+}
+
+#datosModal{
+    padding: 50px;
+}

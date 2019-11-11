@@ -1,0 +1,61 @@
+#cuerpoCarri{
+    margin: auto;
+    background-color: white;
+    width: 70%;
+    border-radius: 4px;
+    padding-bottom: 10px;
+}
+
+#headCarri{
+    display:flex;
+    flex-flow: row nowrap;
+    margin-bottom: 30px;
+    border-bottom: 1px solid gainsboro;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#head1Carri{
+    order: 1;
+    flex-grow: 2;
+    margin: 20px;   
+    margin-top: 30px;
+}
+#head2Carri{
+    order: 3;
+    flex-grow: 1;
+    width: 250px;
+    margin: 20px;
+    margin-top: 30px;
+    margin-right: 0px !important;
+}
+#rellenoCarri{
+    order: 2;
+    flex-grow: 6;
+}
+
+#tableasCarri{
+    max-width: 90%;
+    margin-left: 60px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+#bordeT{
+    border: "solid 1px gainsboro";
+}
+
+#pagarT{
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+#totalf{
+    margin-bottom: 20px;
+}
+
+#espacio{
+    margin-right: 10px;
+}

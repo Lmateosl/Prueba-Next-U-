@@ -1,0 +1,22 @@
+#barrera{
+    margin: 0 auto;
+    width: 70%;
+}
+
+#inicio{
+    width: 50px;
+    padding: 5px;
+}
+
+#carrito{
+    width: 50px;
+    margin-left: 5px;
+    padding: 5px;
+    color: red;
+}
+
+#logout{
+    width: 50px;
+    padding: 5px;
+    margin-left: 5px;
+}
